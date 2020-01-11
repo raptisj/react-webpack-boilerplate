@@ -2,7 +2,7 @@
 
 This is a simple React starter boilerplate with Webpack configuration
 
-## Instalation
+## Installation
 
 ```
 git clone git@github.com:john2220/react-webpack-boilerplate.git
