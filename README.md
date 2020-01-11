@@ -1,4 +1,4 @@
-# React and Webpack Stater Boilerplate
+# React and Webpack Starter Boilerplate
 
 This is a simple React starter boilerplate with Webpack configuration
 
